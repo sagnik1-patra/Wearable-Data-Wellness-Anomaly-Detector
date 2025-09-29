@@ -1,0 +1,17 @@
+data_path: C:\Users\NXTWAVE\Downloads\Wearable Data Wellness Anomaly Detector\archive\wearable_sports_health_dataset.csv
+features_used:
+- heart_rate
+- steps
+- sleep_quality
+- hr_roll_mean
+- steps_roll_mean
+- hrv
+- is_night
+models:
+  anomaly_model: C:\Users\NXTWAVE\Downloads\Wearable Data Wellness Anomaly Detector\anomaly_model.pkl
+  wellness_model: C:\Users\NXTWAVE\Downloads\Wearable Data Wellness Anomaly Detector\wellness_model.pkl
+outputs:
+  h5: C:\Users\NXTWAVE\Downloads\Wearable Data Wellness Anomaly Detector\processed_wearables.h5
+  insights: C:\Users\NXTWAVE\Downloads\Wearable Data Wellness Anomaly Detector\insights.json
+  predictions: C:\Users\NXTWAVE\Downloads\Wearable Data Wellness Anomaly Detector\predictions.csv
+rows: 500

@@ -1,0 +1,37 @@
+{
+  "build_time": "2025-09-29T09:46:10.076298",
+  "avg_wellness": 40.26145456663324,
+  "anomaly_rate": 0.050200803212851405,
+  "top_anomalies": [
+    {
+      "timestamp": "2025-04-11 02:25:00",
+      "heart_rate": 174,
+      "steps": 491,
+      "predicted_wellness": 44.86936023016597
+    },
+    {
+      "timestamp": "2025-04-12 00:50:00",
+      "heart_rate": 66,
+      "steps": 320,
+      "predicted_wellness": 58.81395727297907
+    },
+    {
+      "timestamp": "2025-04-11 00:05:00",
+      "heart_rate": 146,
+      "steps": 962,
+      "predicted_wellness": 58.26691634780315
+    },
+    {
+      "timestamp": "2025-04-11 02:45:00",
+      "heart_rate": 138,
+      "steps": 358,
+      "predicted_wellness": 41.97775560331116
+    },
+    {
+      "timestamp": "2025-04-12 00:55:00",
+      "heart_rate": 75,
+      "steps": 456,
+      "predicted_wellness": 52.14404843349057
+    }
+  ]
+}
